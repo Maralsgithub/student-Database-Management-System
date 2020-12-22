@@ -1,0 +1,2 @@
+# student-Database-Management-System
+A Students Database Management System.  It uses the following:  Java 8. JavaFX. MongoDB. It is a simple management system which have two level of users:  admin teachers The admin has access to student's basic profile, and can CRUD students, users and departments profiles. The teachers can update only marks/scores of the allocated students only but can view academic data of other students of the same department.
