@@ -8,5 +8,6 @@ It uses the following:
 It is a simple management system which have two level of users: 
 1. admin 
 2. teachers 
+
 The admin has access to student's basic profile, and can CRUD students, users and departments profiles.
 The teachers can update only marks/scores of the allocated students only but can view academic data of other students of the same department.
