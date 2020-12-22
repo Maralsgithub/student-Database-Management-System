@@ -4,6 +4,7 @@ It uses the following:
 1. Java 8. 
 2. JavaFX.
 3. MongoDB. 
+
 It is a simple management system which have two level of users: 
 1. admin 
 2. teachers 
